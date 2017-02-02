@@ -30,7 +30,7 @@ We built this in 10 weeks (from September to December 2016) using [Unity3d](http
 
 ## Play the Game 
 
-Download the zip of your choice under [Releases](https://github.com/mhueter/legend-of-z/releases) in this repo. 
+Download the zip of your choice under Michael Hueter's [Releases](https://github.com/mhueter/legend-of-z/releases) in his repo. 
 
 **Notes:** 
 

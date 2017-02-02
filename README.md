@@ -1,6 +1,7 @@
 # The Legend of Z
 
 ## Background
+Great readme wrote by Michael Hueter. Thanks Michael!
 
 This game was built as a final project for **Oregon State University CS 419 - Software Projects**.
 It was built by **Ellard Gerritsen van der Hoop** [@Ellard24](https://github.com/ellard24), **Michael Hueter** [@mhueter](https://github.com/mhueter), and **Peter Murphy** [@murphpet](https://github.com/murphpet). None of us had any game development experience.
